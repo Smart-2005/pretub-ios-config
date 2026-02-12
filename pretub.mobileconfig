@@ -34,7 +34,7 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Pretub</string>
+    <string>Premium Youtube</string>
     <key>PayloadIdentifier</key>
     <string>com.pretub.profile</string>
     <key>PayloadRemovalDisallowed</key>
