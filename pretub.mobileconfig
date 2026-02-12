@@ -16,7 +16,7 @@
             <key>PayloadDisplayName</key>
             <string>Pretub</string>
             <key>PayloadDescription</key>
-            <string>Shortcut to Pretub website</string>
+            <string>Install Pretub</string>
             <key>Label</key>
             <string>Pretub</string>
             <key>URL</key>
@@ -27,10 +27,14 @@
             <false/>
             <key>Precomposed</key>
             <true/>
+            <key>Icon</key>
+            <data>
+                iVBORw0KGgoAAAANSUhEUgAAAV4AAAFeBAMAAAA/BWopAAAAJFBMVEVHcEz/AAD/AAD/AAD/AAD/AAD/////3Nz/q6v/cHD/ODj/AAAx7FNbAAAABnRSTlMAHVCCtuDN/3+oAAADJUlEQVR42u3cQW7aQBSAYZP0AB6a7MEkq2xazK6bJJgVqyK88h44Au4NwhHKEbxrsNTqXa6oTTRSFpEJfraf9H8n+GUNzxg8EwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAXaEXdJJzrh9F0SiO42ny1iQ+iqJo6Jxrtb/n+v8aj01pmmbyvvQoSaZxPI4i55qP7Y+SWZrKR2TpMhkPw6BB/Ukm5ymnw+Yu7k0m5ysfw4ZyJ1KPadjM1ZW6LJoIvpL6PATqLuZSn8Mg0HYrdVqoX95M6lQOmli9hlbwXOp1CHWXg3gWFsSViKkF8U3q9hwo6s1FLC3gC6mf5gL+JPW7D/RcS/2+B3rupH6/TIwH71l3PFgaEL1M6leGmuPM1EC7FA1f6H1xJRrujfU+aN7eTN3gbulVvSHf0Uuv0tcz77nF3j97W72/N3tbvatN0Z3eeYXeVX5q8KHd3lVurHe1M9a73nWjt1exd7XeKzxwKvauNvtO9GZVe0+aamX7vX6qWeld5cZ6V7vWey8q95401cpB671+qrXaK1V7T5tq7ff6qWbh+np5YeL6ermNXm9nrHe9a+8HysvKvadNtUEnev1UM3J9/VQz0evlhYleLzfW+8PYehBTvdvCVO+msHa/sNS7/immendiqvdJTPXmYqp3W5jq3RRiotdPMoVehecLP8ksXd+deAae357EVG8upnq3hZleP8ks/D7pJ5lCr8Lv1X6S2endiWfg/4AnMdWbi0Kv3v+F26I7L9RW6PWTrAv/d6u8D3PgfSPdXt4/M9p7KxoWvP9r9P3qT6Lhnv0Bur3sb/EPRPUrB+x3eqWyn4z9err7Idlvqrufl/3SmgOtDNnv712b+Lh5lya+7Xg9hfNATC2IBefZqJ4XxHlMb33OpC7l16ABN1KXR0PHy/kD5vSNZnK+5ThojBvNMjlHuRy7oEkuipNZKh+RLpM4Cls6MDN+PTBT3lWW6TEzieN4HA1dhVjdcOdeziOdJG9Mp3EcR0fO+cyOCd1/YcjhtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADs+gtWkB2hl5uPhwAAAABJRU5ErkJggg==
+            </data>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Pretub Website Shortcut</string>
+    <string>Pretub</string>
     <key>PayloadIdentifier</key>
     <string>com.pretub.profile</string>
     <key>PayloadRemovalDisallowed</key>
